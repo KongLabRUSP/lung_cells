@@ -1,0 +1,15 @@
+Status	DK01.sorted.dedup.bam	DK02.sorted.dedup.bam	DK03.sorted.dedup.bam	DK04.sorted.dedup.bam	DK05.sorted.dedup.bam	DK06.sorted.dedup.bam	LW01.sorted.dedup.bam	LW02.sorted.dedup.bam	LW03.sorted.dedup.bam	PC01.sorted.dedup.bam	PC02.sorted.dedup.bam	PC03.sorted.dedup.bam	PC04.sorted.dedup.bam	PC05.sorted.dedup.bam	PC06.sorted.dedup.bam	PC07.sorted.dedup.bam
+Assigned	32428603	32492585	30104257	32658908	31000132	32979630	27760378	29861222	28495099	28384225	26884181	26800700	25562419	28518183	30726224	30297530
+Unassigned_Unmapped	2983139	2959191	2737104	2995504	2951307	3278705	2385408	2496040	3013411	2397608	2227615	2268525	2370509	2578757	3352616	3309223
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	3919402	3886098	3793330	3560361	3742939	4126605	3284967	3363187	2842873	4103787	3796518	3504896	3389423	3943774	4182021	3963040
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	1074723	1076391	1003161	1087889	1005470	1073731	935000	1013930	982359	990510	947648	931565	905273	979421	1069886	1048867
