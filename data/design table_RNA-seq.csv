@@ -1,0 +1,17 @@
+Sample Name,Sample Label,trt,repl
+DK01.sorted.dedup.bam,BEAS-2B-SFN,SFN,1
+DK02.sorted.dedup.bam,BEAS-2B-Belinostat,Belinostat,2
+DK03.sorted.dedup.bam,BEAS-2B-SAHA,SAHA,1
+DK04.sorted.dedup.bam,BEAS-2B-SAHA and SFN,SAHA and SFN,2
+DK05.sorted.dedup.bam,LPS+NNK-challenged BEAS-2B-Control,Control,1
+DK06.sorted.dedup.bam,LPS+NNK-challenged BEAS-2B-SAHA,SAHA,2
+LW01.sorted.dedup.bam,BEAS-2B-CTRL,CTRL,1
+LW02.sorted.dedup.bam,BEAS-2B-H2O2,H2O2,2
+LW03.sorted.dedup.bam,BEAS-2B-H2O2+NAC,H2O2+NAC,1
+PC01.sorted.dedup.bam,BEAS-2B-Control,Control,2
+PC02.sorted.dedup.bam,LPS-challenged BEAS-2B-Control,Control,1
+PC03.sorted.dedup.bam,LPS-challenged BEAS-2B-SFN,SFN,2
+PC04.sorted.dedup.bam,LPS-challenged BEAS-2B-Belinostat,Belinostat,1
+PC05.sorted.dedup.bam,LPS-challenged BEAS-2B-Belinostat+SFN,Belinostat+SFN,2
+PC06.sorted.dedup.bam,LPS-challenged BEAS-2B-SAHA,SAHA,1
+PC07.sorted.dedup.bam,LPS-challenged BEAS-2B-SAHA+SFN,SAHA+SFN,2
