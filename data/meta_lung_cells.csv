@@ -1,0 +1,49 @@
+analysis_type,data_file,sample_name,challenge,treatment
+methyl-seq,combined_def.tsv,D1_R1_001_val_1_bismark_bt2_pe-N,No Challenge,SFN
+methyl-seq,combined_def.tsv,D1_R1_001_val_1_bismark_bt2_pe-X,No Challenge,SFN
+methyl-seq,combined_def.tsv,D2_R1_001_val_1_bismark_bt2_pe-N,No Challenge,Belinostat
+methyl-seq,combined_def.tsv,D2_R1_001_val_1_bismark_bt2_pe-X,No Challenge,Belinostat
+methyl-seq,combined_def.tsv,D3_R1_001_val_1_bismark_bt2_pe-N,No Challenge,SAHA
+methyl-seq,combined_def.tsv,D3_R1_001_val_1_bismark_bt2_pe-X,No Challenge,SAHA
+methyl-seq,combined_def.tsv,D4_R1_001_val_1_bismark_bt2_pe-N,No Challenge,SAHA+SFN
+methyl-seq,combined_def.tsv,D4_R1_001_val_1_bismark_bt2_pe-X,No Challenge,SAHA+SFN
+methyl-seq,combined_def.tsv,D5_R1_001_val_1_bismark_bt2_pe-N,LPS+NNK,Control
+methyl-seq,combined_def.tsv,D5_R1_001_val_1_bismark_bt2_pe-X,LPS+NNK,Control
+methyl-seq,combined_def.tsv,D6_R1_001_val_1_bismark_bt2_pe-N,LPS+NNK,SAHA
+methyl-seq,combined_def.tsv,D6_R1_001_val_1_bismark_bt2_pe-X,LPS+NNK,SAHA
+methyl-seq,combined_def.tsv,LW01-RESUB_R1_001_val_1_bismark_bt2_pe-N,No Challenge,Control
+methyl-seq,combined_def.tsv,LW01-RESUB_R1_001_val_1_bismark_bt2_pe-X,No Challenge,Control
+methyl-seq,combined_def.tsv,LW02_R1_001_val_1_bismark_bt2_pe-N,No Challenge,H2O2
+methyl-seq,combined_def.tsv,LW02_R1_001_val_1_bismark_bt2_pe-X,No Challenge,H2O2
+methyl-seq,combined_def.tsv,LW03_R1_001_val_1_bismark_bt2_pe-N,No Challenge,H2O2+NAC
+methyl-seq,combined_def.tsv,LW03_R1_001_val_1_bismark_bt2_pe-X,No Challenge,H2O2+NAC
+methyl-seq,combined_def.tsv,PC01_R1_001_val_1_bismark_bt2_pe-N,No Challenge,Control
+methyl-seq,combined_def.tsv,PC01_R1_001_val_1_bismark_bt2_pe-X,No Challenge,Control
+methyl-seq,combined_def.tsv,PC02_R1_001_val_1_bismark_bt2_pe-N,LPS,Control
+methyl-seq,combined_def.tsv,PC02_R1_001_val_1_bismark_bt2_pe-X,LPS,Control
+methyl-seq,combined_def.tsv,PC03_R1_001_val_1_bismark_bt2_pe-N,LPS,SFN
+methyl-seq,combined_def.tsv,PC03_R1_001_val_1_bismark_bt2_pe-X,LPS,SFN
+methyl-seq,combined_def.tsv,PC04_R1_001_val_1_bismark_bt2_pe-N,LPS,Belinostat
+methyl-seq,combined_def.tsv,PC04_R1_001_val_1_bismark_bt2_pe-X,LPS,Belinostat
+methyl-seq,combined_def.tsv,PC05_R1_001_val_1_bismark_bt2_pe-N,LPS,Belinostat+SFN
+methyl-seq,combined_def.tsv,PC05_R1_001_val_1_bismark_bt2_pe-X,LPS,Belinostat+SFN
+methyl-seq,combined_def.tsv,PC06LW01-RESUB_R1_001_val_1_bismark_bt2_pe-N,LPS,SAHA
+methyl-seq,combined_def.tsv,PC06LW01-RESUB_R1_001_val_1_bismark_bt2_pe-X,LPS,SAHA
+methyl-seq,combined_def.tsv,PC07_R1_001_val_1_bismark_bt2_pe-N,LPS,SAHA+SFN
+methyl-seq,combined_def.tsv,PC07_R1_001_val_1_bismark_bt2_pe-X,LPS,SAHA+SFN
+rna_seq,featurecounts.results_20210806-111224.tsv,DK01.sorted.dedup.bam,No Challenge,SFN
+rna_seq,featurecounts.results_20210806-111224.tsv,DK02.sorted.dedup.bam,No Challenge,Belinostat
+rna_seq,featurecounts.results_20210806-111224.tsv,DK03.sorted.dedup.bam,No Challenge,SAHA
+rna_seq,featurecounts.results_20210806-111224.tsv,DK04.sorted.dedup.bam,No Challenge,SAHA+SFN
+rna_seq,featurecounts.results_20210806-111224.tsv,DK05.sorted.dedup.bam,LPS+NNK,Control
+rna_seq,featurecounts.results_20210806-111224.tsv,DK06.sorted.dedup.bam,LPS+NNK,SAHA
+rna_seq,featurecounts.results_20210806-111224.tsv,LW01.sorted.dedup.bam,No Challenge,Control
+rna_seq,featurecounts.results_20210806-111224.tsv,LW02.sorted.dedup.bam,No Challenge,H2O2
+rna_seq,featurecounts.results_20210806-111224.tsv,LW03.sorted.dedup.bam,No Challenge,H2O2+NAC
+rna_seq,featurecounts.results_20210806-111224.tsv,PC01.sorted.dedup.bam,No Challenge,Control
+rna_seq,featurecounts.results_20210806-111224.tsv,PC02.sorted.dedup.bam,LPS,Control
+rna_seq,featurecounts.results_20210806-111224.tsv,PC03.sorted.dedup.bam,LPS,SFN
+rna_seq,featurecounts.results_20210806-111224.tsv,PC04.sorted.dedup.bam,LPS,Belinostat
+rna_seq,featurecounts.results_20210806-111224.tsv,PC05.sorted.dedup.bam,LPS,Belinostat+SFN
+rna_seq,featurecounts.results_20210806-111224.tsv,PC06.sorted.dedup.bam,LPS,SAHA
+rna_seq,featurecounts.results_20210806-111224.tsv,PC07.sorted.dedup.bam,LPS,SAHA+SFN
